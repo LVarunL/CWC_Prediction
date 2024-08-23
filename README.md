@@ -1,5 +1,4 @@
 # ICC_World_Cup_2023_Prediction🏏
-## Course Project 3 of Data Mining Course
 
 * This Project aims to predict:
   1. Predicting the batsman who will score most runs/ hit most sixes/ make most centuries in the tournament.
@@ -82,8 +81,8 @@ For Highest Run scorer prediction-
 Took all odi matches data of top 5 players in the ranking currently(before semis), and considering ground, date, and opponent as factors, ran a neural network model to predict the runs the batsman will hit in the semis and finals. Then added the predicted semis/finals runs with the current runs, and predicted the highest run scorer of the tournament.
 
 # Contributions :
- * Finalist and WinnerPrediction - Dhruvi Gohel(202101188) and Varun Vyas(202101468)
- * Score Prediction - Dhruvi Gohel(202101188) and Varun Vyas(202101468)
+ * Finalist and WinnerPrediction - Dhruvi Gohel and Varun Vyas
+ * Score Prediction - Dhruvi Gohel and Varun Vyas
  * Finalist_prediction_2- Ayush Patel(202101439)
- * Players Prediction - Dhruvil Thakor(202101462) and Dhruvi Gohel(202101188)
- * Highest Run Scorer Prediction, API- Aayush Patel(202101452)
+ * Players Prediction - Dhruvil Thakor and Dhruvi Gohel
+ * Highest Run Scorer Prediction, API- Aayush Patel
